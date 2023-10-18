@@ -1,1 +1,1 @@
-# IU-PythonProgramming
+# IU-Python Programming course
